@@ -13,4 +13,4 @@ Tracking my LeetCode progress, organized by difficulty and topic.
 
 | # | Problem | Solution | Difficulty | Time | Space | Tags | Notes |
 |---|----------|-----------|-------------|-------|--------|--------|--------|
-| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Python](./string/0058_length_of_last_word.py) | Easy | $O(n)$ | $O(n)$ | String | Space Complexity can be improved |
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Python](./string/0058_length_of_last_word.py) | Easy | $O(n)$ | $O(1)$ | String | Count characters from the end until a space |
