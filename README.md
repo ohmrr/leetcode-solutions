@@ -10,7 +10,7 @@ Tracking my LeetCode progress, organized by difficulty and topic.
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Python](./array/0217_contains_duplicate.py) | Easy | $O(n)$ | $O(n)$ | Array, Hash Table, Sorting | Use a set to only keep unique values |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/description/) | [Python](./array/0704_binary_search.py) | Easy | $O(\log n)$ | $O(1)$ | Array, Binary Search | Halve the search range after each iteration |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/) | [Python](./array/1929_concatenation_of_array.py) | Easy | $O(n)$ | $O(n)$ | Array, Simulation | Can use `nums * 2` short hand |
-| 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/) | [Python](./array/2011_final_value_of_variable_after_performing_operations.py) | Easy | $O(n)$ | $O(1)$ | Array, String, Simulation | Halve the search range after each iteration |
+| 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/) | [Python](./array/2011_final_value_of_variable_after_performing_operations.py) | Easy | $O(n)$ | $O(1)$ | Array, String, Simulation |  |
 
 ## Strings
 
@@ -19,3 +19,9 @@ Tracking my LeetCode progress, organized by difficulty and topic.
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Python](./string/0058_length_of_last_word.py) | Easy | $O(n)$ | $O(1)$ | String | Count characters from the end until a space |
 | 412 | [FizzBuzz](https://leetcode.com/problems/fizz-buzz/description/) | [Python](./string/0412_fizz_buzz.py) | Easy | $O(n)$ | $O(n)$ | Math, String, Simulation |  |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/description/) | [Python](./string/3110_score_of_a_string.py) | Easy | $O(n)$ | $O(1)$ | String | Use `ord` to get ASCII values |
+
+## Hash Table
+
+| # | Problem | Solution | Difficulty | Time | Space | Tags | Notes |
+|---|----------|-----------|-------------|-------|--------|--------|--------|
+| 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Python](./hashtable/0771_jewels_and_stones) | Easy | $O(n + m)$ | $O(m)$ | Hash Table, String | Use a set for constant lookup |
