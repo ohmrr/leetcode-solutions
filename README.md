@@ -29,3 +29,9 @@ Tracking my LeetCode progress, organized by difficulty and topic.
 | # | Problem | Solution | Difficulty | Time | Space | Tags | Notes |
 |---|----------|-----------|-------------|-------|--------|--------|--------|
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Python](./hashtable/0771_jewels_and_stones) | Easy | $O(n + m)$ | $O(m)$ | Hash Table, String | Use a set for constant lookup |
+
+## Linked List
+
+| # | Problem | Solution | Difficulty | Time | Space | Tags | Notes |
+|---|----------|-----------|-------------|-------|--------|--------|--------|
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Python](./linkedlist/0237_delete_node_in_a_linked_list.py) | Medium | $O(n)$ | $O(1)$ | Linked List | Suboptimal time complexity, WIP |
