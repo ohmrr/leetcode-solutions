@@ -11,7 +11,8 @@ Tracking my LeetCode progress, organized by difficulty and topic.
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/description/) | [Python](./array/0704_binary_search.py) | Easy | $O(\log n)$ | $O(1)$ | Array, Binary Search | Halve the search range after each iteration |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/) | [Python](./array/1480_running_sum_of_1d_array.py) | Easy | $O(n)$ | $O(1)$ | Array, Prefix Sum | Edit the input array for O(1) space complexity |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/) | [Python](./array/1929_concatenation_of_array.py) | Easy | $O(n)$ | $O(n)$ | Array, Simulation | Can use `nums * 2` short hand |
-| 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/) | [Python](./array/2011_final_value_of_variable_after_performing_operations.py) | Easy | $O(n)$ | $O(1)$ | Array, String, Simulation |  |
+| 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/) | [Python](./array/2011_final_value_of_variable_after_performing_operations.py) | Easy | $O(n)$ | $O(1)$ | Array, String |  |
+| 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/) | [Python](./array/2942_find_words_containing_character.py) | Easy | $O(n * m)$ | $O(n)$ | Array, String, Simulation | Scan n words of length l |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum/description/) | [Python](./array/3701_compute_alternating_sum.py) | Easy | $O(n)$ | $O(1)$ | Array, Simulation |  |
 
 ## Strings
