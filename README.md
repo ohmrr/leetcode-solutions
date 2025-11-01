@@ -2,7 +2,7 @@
 
 Tracking my LeetCode progress, organized by difficulty and topic.
 
-## Arrays
+## Array
 
 | # | Problem | Solution | Difficulty | Time | Space | Tags | Notes |
 |---|----------|-----------|-------------|-------|--------|--------|--------|
@@ -15,12 +15,13 @@ Tracking my LeetCode progress, organized by difficulty and topic.
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/) | [Python](./array/2942_find_words_containing_character.py) | Easy | $O(n * m)$ | $O(n)$ | Array, String, Simulation | Scan n words of length l |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum/description/) | [Python](./array/3701_compute_alternating_sum.py) | Easy | $O(n)$ | $O(1)$ | Array, Simulation |  |
 
-## Strings
+## String
 
 | # | Problem | Solution | Difficulty | Time | Space | Tags | Notes |
 |---|----------|-----------|-------------|-------|--------|--------|--------|
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Python](./string/0058_length_of_last_word.py) | Easy | $O(n)$ | $O(1)$ | String | Count characters from the end until a space |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Python](./string/0125_valid_palindrome.py) | Easy | $O(n)$ | $O(1)$ | Two Pointers, String | Increase/decrease pointer until an alphanumeric character is found |
+| 271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/) | [Python](./string/0271_encode_and_decode_strings.py) | Medium | $O(n)$ | $O(n)$ | String, Design | Prefix each string with length and delimiter for safe decoding |
 | 412 | [FizzBuzz](https://leetcode.com/problems/fizz-buzz/description/) | [Python](./string/0412_fizz_buzz.py) | Easy | $O(n)$ | $O(n)$ | Math, String, Simulation |  |
 | 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks/description/) | [Python](./string/2315_count_asterisks.py) | Easy | $O(n)$ | $O(1)$ | String | Use boolean to track whether inside '\|' pair |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/description/) | [Python](./string/3110_score_of_a_string.py) | Easy | $O(n)$ | $O(1)$ | String | Use `ord` to get ASCII values |
