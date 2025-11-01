@@ -20,6 +20,7 @@ Tracking my LeetCode progress, organized by difficulty and topic.
 | # | Problem | Solution | Difficulty | Time | Space | Tags | Notes |
 |---|----------|-----------|-------------|-------|--------|--------|--------|
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Python](./string/0058_length_of_last_word.py) | Easy | $O(n)$ | $O(1)$ | String | Count characters from the end until a space |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Python](./string/0125_valid_palindrome.py) | Easy | $O(n)$ | $O(1)$ | Two Pointers, String | Increase/decrease pointer until an alphanumeric character is found |
 | 412 | [FizzBuzz](https://leetcode.com/problems/fizz-buzz/description/) | [Python](./string/0412_fizz_buzz.py) | Easy | $O(n)$ | $O(n)$ | Math, String, Simulation |  |
 | 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks/description/) | [Python](./string/2315_count_asterisks.py) | Easy | $O(n)$ | $O(1)$ | String | Use boolean to track whether inside '\|' pair |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/description/) | [Python](./string/3110_score_of_a_string.py) | Easy | $O(n)$ | $O(1)$ | String | Use `ord` to get ASCII values |
