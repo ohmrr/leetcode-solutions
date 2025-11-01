@@ -7,6 +7,7 @@ Tracking my LeetCode progress, organized by difficulty and topic.
 | # | Problem | Solution | Difficulty | Time | Space | Tags | Notes |
 |---|----------|-----------|-------------|-------|--------|--------|--------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Python](./array/0001_two_sum.py) | Easy | $O(n)$ | $O(n)$ | Array, Hash Table | Basic hashmap lookup |
+| 167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Python](./array/0167_two_sum_ii.py) | Medium | $O(n)$ | $O(1)$ | Array, Two Pointers, Binary Search | Use two pointers, check if the sum is greater than or less than the target |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Python](./array/0217_contains_duplicate.py) | Easy | $O(n)$ | $O(n)$ | Array, Hash Table, Sorting | Use a set to only keep unique values |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/description/) | [Python](./array/0704_binary_search.py) | Easy | $O(\log n)$ | $O(1)$ | Array, Binary Search | Halve the search range after each iteration |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/) | [Python](./array/1480_running_sum_of_1d_array.py) | Easy | $O(n)$ | $O(1)$ | Array, Prefix Sum | Edit the input array for O(1) space complexity |
