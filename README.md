@@ -29,6 +29,7 @@ Tracking my LeetCode progress, organized by difficulty and topic.
 
 | # | Problem | Solution | Difficulty | Time | Space | Tags | Notes |
 |---|----------|-----------|-------------|-------|--------|--------|--------|
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Python](./hashtable/0242_valid_anagram.py) | Easy | $O(n)$ | $O(n)$ | Hash Table, String, Sorting | Maintain the frequency of each character |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Python](./hashtable/0771_jewels_and_stones) | Easy | $O(n + m)$ | $O(m)$ | Hash Table, String | Use a set for constant lookup |
 
 ## Linked List
