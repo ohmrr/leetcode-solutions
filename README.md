@@ -24,6 +24,7 @@ Tracking my LeetCode progress, organized by difficulty and topic.
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Python](./string/0125_valid_palindrome.py) | Easy | $O(n)$ | $O(1)$ | Two Pointers, String | Increase/decrease pointer until an alphanumeric character is found |
 | 271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/) | [Python](./string/0271_encode_and_decode_strings.py) | Medium | $O(n)$ | $O(n)$ | String, Design | Prefix each string with length and delimiter for safe decoding |
 | 412 | [FizzBuzz](https://leetcode.com/problems/fizz-buzz/description/) | [Python](./string/0412_fizz_buzz.py) | Easy | $O(n)$ | $O(n)$ | Math, String, Simulation |  |
+| 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/description/) | [Python](./string/0709_to_lower_case.py) | Easy | $O(n)$ | $O(n)$ | String | Use built in `ord()` and `chr()` function |
 | 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks/description/) | [Python](./string/2315_count_asterisks.py) | Easy | $O(n)$ | $O(1)$ | String | Use boolean to track whether inside '\|' pair |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/description/) | [Python](./string/3110_score_of_a_string.py) | Easy | $O(n)$ | $O(1)$ | String | Use `ord` to get ASCII values |
 
