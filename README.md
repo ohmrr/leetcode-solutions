@@ -35,6 +35,7 @@ Tracking my LeetCode progress, organized by difficulty and topic.
 |---|----------|-----------|-------------|-------|--------|--------|--------|
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Python](./hashtable/0242_valid_anagram.py) | Easy | $O(n)$ | $O(n)$ | Hash Table, String, Sorting | Maintain the frequency of each character |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Python](./hashtable/0771_jewels_and_stones) | Easy | $O(n + m)$ | $O(m)$ | Hash Table, String | Use a set for constant lookup |
+| 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/description/) | [Java](./hashtable/1603_design_parking_system.java) | Easy | $O(1)$ | $O(1)$ | Design, Simulation, Counting | Use a hashmap to keep track of spaces left |
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/) | [Python](./hashtable/1832_check_if_the_sentence_is_pangram.py) | Easy | $O(n)$ | $O(n)$ | Hash Table, String | |
 | 3541 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/description/) | [Python](./hashtable/3541_find_most_frequent_vowel_and_consonant.py) | Easy | $O(n)$ | $O(k)$ | Hash Table, String, Counting | Use a frequency map. Space is O(k), where k is the number of distinct characters |
 
