@@ -45,5 +45,6 @@ Tracking my LeetCode progress, organized by difficulty and topic.
 
 | # | Problem | Solution | Difficulty | Time | Space | Tags | Notes |
 |---|----------|-----------|-------------|-------|--------|--------|--------|
-| 21 | [Marge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Python](./linkedlist/0021_merge_two_sorted_lists.py) | Easy | $O(n)$ | $O(n)$ | Linked List, Recursion | Create dummy node and use a pointer for each individual list |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Python](./linkedlist/0021_merge_two_sorted_lists.py) | Easy | $O(n)$ | $O(n)$ | Linked List, Recursion | Create dummy node and use a pointer for each individual list |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Python](./linkedlist/0141_linked_list_cycle.py) | Easy | $O(n)$ | $O(1)$ | Hash Table, Linked List, Two Pointers | Use a slow and fast pointer |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Python](./linkedlist/0237_delete_node_in_a_linked_list.py) | Medium | $O(n)$ | $O(1)$ | Linked List | Suboptimal time complexity, WIP |
